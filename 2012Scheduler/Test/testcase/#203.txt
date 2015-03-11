@@ -1,0 +1,5 @@
+create	32	10000
+create	32	10000
+resume	0	
+resume	1	
+stop	1	

@@ -1,0 +1,17 @@
+﻿Build started 2012/10/27 20:24:46.
+     1>Project "D:\ssd\ssd6\大作业\命题\2012Scheduler\Scheduler\Scheduler.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Scheduler.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Scheduler.vcxproj -> D:\ssd\ssd6\大作业\命题\2012Scheduler\Debug\Scheduler.dll
+       FinalizeBuildStatus:
+         Deleting file "Debug\Scheduler.unsuccessfulbuild".
+         Touching "Debug\Scheduler.lastbuildstate".
+     1>Done Building Project "D:\ssd\ssd6\大作业\命题\2012Scheduler\Scheduler\Scheduler.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06

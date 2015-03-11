@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="KernelSchedule">
+</Property><Property Name="Solution File" Value="C:\Users\fan\Desktop\命题\2012Scheduler\KernelSchedule.sln">
+</Property><Property Name="User Options File" Value="C:\Users\fan\Desktop\命题\2012Scheduler\KernelSchedule.suo">
+</Property><Property Name="Date" Value="2012年10月11日">
+</Property><Property Name="Time" Value="23:22">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="KernelSchedule.sln" Description="File successfully backed up as C:\Users\fan\Desktop\命题\2012Scheduler\KernelSchedule.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="KernelSchedule.suo" Description="File successfully backed up as C:\Users\fan\Desktop\命题\2012Scheduler\KernelSchedule.suo.old">
+</Event><Event ErrorLevel="0" Project="Test" Source="Test\Test.vcproj" Description="Converting project file 'C:\Users\fan\Desktop\命题\2012Scheduler\Test\Test.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Test" Source="Test\Test.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Test" Source="Test\Test.vcproj" Description="Done converting to new project file 'C:\Users\fan\Desktop\命题\2012Scheduler\Test\Test.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Test" Source="Test\Test.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Scheduler" Source="Scheduler\Scheduler.vcproj" Description="Converting project file 'C:\Users\fan\Desktop\命题\2012Scheduler\Scheduler\Scheduler.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Scheduler" Source="Scheduler\Scheduler.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Scheduler" Source="Scheduler\Scheduler.vcproj" Description="Done converting to new project file 'C:\Users\fan\Desktop\命题\2012Scheduler\Scheduler\Scheduler.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Scheduler" Source="Scheduler\Scheduler.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="KernelSchedule.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="KernelSchedule.sln" Description="Converted">
+</Event></UpgradeLog>

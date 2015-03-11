@@ -1,0 +1,1024 @@
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	1	-1
+create	32	-1
+create	32	-1
+create	1	-1
+create	32	-1
+resume	0	
+resume	1	
+resume	2	
+resume	3	
+resume	4	
+resume	5	
+resume	6	
+resume	7	
+resume	8	
+resume	9	
+resume	10	
+resume	11	
+resume	12	
+resume	13	
+resume	14	
+resume	15	
+resume	16	
+resume	17	
+resume	18	
+resume	19	
+resume	20	
+resume	21	
+resume	22	
+resume	23	
+resume	24	
+resume	25	
+resume	26	
+resume	27	
+resume	28	
+resume	29	
+resume	30	
+resume	31	
+resume	32	
+resume	33	
+resume	34	
+resume	35	
+resume	36	
+resume	37	
+resume	38	
+resume	39	
+resume	40	
+resume	41	
+resume	42	
+resume	43	
+resume	44	
+resume	45	
+resume	46	
+resume	47	
+resume	48	
+resume	49	
+resume	50	
+resume	51	
+resume	52	
+resume	53	
+resume	54	
+resume	55	
+resume	56	
+resume	57	
+resume	58	
+resume	59	
+resume	60	
+resume	61	
+resume	62	
+resume	63	
+resume	64	
+resume	65	
+resume	66	
+resume	67	
+resume	68	
+resume	69	
+resume	70	
+resume	71	
+resume	72	
+resume	73	
+resume	74	
+resume	75	
+resume	76	
+resume	77	
+resume	78	
+resume	79	
+resume	80	
+resume	81	
+resume	82	
+resume	83	
+resume	84	
+resume	85	
+resume	86	
+resume	87	
+resume	88	
+resume	89	
+resume	90	
+resume	91	
+resume	92	
+resume	93	
+resume	94	
+resume	95	
+resume	96	
+resume	97	
+resume	98	
+resume	99	
+resume	100	
+resume	101	
+resume	102	
+resume	103	
+resume	104	
+resume	105	
+resume	106	
+resume	107	
+resume	108	
+resume	109	
+resume	110	
+resume	111	
+resume	112	
+resume	113	
+resume	114	
+resume	115	
+resume	116	
+resume	117	
+resume	118	
+resume	119	
+resume	120	
+resume	121	
+resume	122	
+resume	123	
+resume	124	
+resume	125	
+resume	126	
+resume	127	
+resume	128	
+resume	129	
+resume	130	
+resume	131	
+resume	132	
+resume	133	
+resume	134	
+resume	135	
+resume	136	
+resume	137	
+resume	138	
+resume	139	
+resume	140	
+resume	141	
+resume	142	
+resume	143	
+resume	144	
+resume	145	
+resume	146	
+resume	147	
+resume	148	
+resume	149	
+resume	150	
+resume	151	
+resume	152	
+resume	153	
+resume	154	
+resume	155	
+resume	156	
+resume	157	
+resume	158	
+resume	159	
+resume	160	
+resume	161	
+resume	162	
+resume	163	
+resume	164	
+resume	165	
+resume	166	
+resume	167	
+resume	168	
+resume	169	
+resume	170	
+resume	171	
+resume	172	
+resume	173	
+resume	174	
+resume	175	
+resume	176	
+resume	177	
+resume	178	
+resume	179	
+resume	180	
+resume	181	
+resume	182	
+resume	183	
+resume	184	
+resume	185	
+resume	186	
+resume	187	
+resume	188	
+resume	189	
+resume	190	
+resume	191	
+resume	192	
+resume	193	
+resume	194	
+resume	195	
+resume	196	
+resume	197	
+resume	198	
+resume	199	
+resume	200	
+resume	201	
+resume	202	
+resume	203	
+resume	204	
+resume	205	
+resume	206	
+resume	207	
+resume	208	
+resume	209	
+resume	210	
+resume	211	
+resume	212	
+resume	213	
+resume	214	
+resume	215	
+resume	216	
+resume	217	
+resume	218	
+resume	219	
+resume	220	
+resume	221	
+resume	222	
+resume	223	
+resume	224	
+resume	225	
+resume	226	
+resume	227	
+resume	228	
+resume	229	
+resume	230	
+resume	231	
+resume	232	
+resume	233	
+resume	234	
+resume	235	
+resume	236	
+resume	237	
+resume	238	
+resume	239	
+resume	240	
+resume	241	
+resume	242	
+resume	243	
+resume	244	
+resume	245	
+resume	246	
+resume	247	
+resume	248	
+resume	249	
+resume	250	
+resume	251	
+resume	252	
+resume	253	
+resume	254	
+resume	255	
+resume	256	
+resume	257	
+resume	258	
+resume	259	
+resume	260	
+resume	261	
+resume	262	
+resume	263	
+resume	264	
+resume	265	
+resume	266	
+resume	267	
+resume	268	
+resume	269	
+resume	270	
+resume	271	
+resume	272	
+resume	273	
+resume	274	
+resume	275	
+resume	276	
+resume	277	
+resume	278	
+resume	279	
+resume	280	
+resume	281	
+resume	282	
+resume	283	
+resume	284	
+resume	285	
+resume	286	
+resume	287	
+resume	288	
+resume	289	
+resume	290	
+resume	291	
+resume	292	
+resume	293	
+resume	294	
+resume	295	
+resume	296	
+resume	297	
+resume	298	
+resume	299	
+resume	300	
+resume	301	
+resume	302	
+resume	303	
+resume	304	
+resume	305	
+resume	306	
+resume	307	
+resume	308	
+resume	309	
+resume	310	
+resume	311	
+resume	312	
+resume	313	
+resume	314	
+resume	315	
+resume	316	
+resume	317	
+resume	318	
+resume	319	
+resume	320	
+resume	321	
+resume	322	
+resume	323	
+resume	324	
+resume	325	
+resume	326	
+resume	327	
+resume	328	
+resume	329	
+resume	330	
+resume	331	
+resume	332	
+resume	333	
+resume	334	
+resume	335	
+resume	336	
+resume	337	
+resume	338	
+resume	339	
+resume	340	
+resume	341	
+resume	342	
+resume	343	
+resume	344	
+resume	345	
+resume	346	
+resume	347	
+resume	348	
+resume	349	
+resume	350	
+resume	351	
+resume	352	
+resume	353	
+resume	354	
+resume	355	
+resume	356	
+resume	357	
+resume	358	
+resume	359	
+resume	360	
+resume	361	
+resume	362	
+resume	363	
+resume	364	
+resume	365	
+resume	366	
+resume	367	
+resume	368	
+resume	369	
+resume	370	
+resume	371	
+resume	372	
+resume	373	
+resume	374	
+resume	375	
+resume	376	
+resume	377	
+resume	378	
+resume	379	
+resume	380	
+resume	381	
+resume	382	
+resume	383	
+resume	384	
+resume	385	
+resume	386	
+resume	387	
+resume	388	
+resume	389	
+resume	390	
+resume	391	
+resume	392	
+resume	393	
+resume	394	
+resume	395	
+resume	396	
+resume	397	
+resume	398	
+resume	399	
+resume	400	
+resume	401	
+resume	402	
+resume	403	
+resume	404	
+resume	405	
+resume	406	
+resume	407	
+resume	408	
+resume	409	
+resume	410	
+resume	411	
+resume	412	
+resume	413	
+resume	414	
+resume	415	
+resume	416	
+resume	417	
+resume	418	
+resume	419	
+resume	420	
+resume	421	
+resume	422	
+resume	423	
+resume	424	
+resume	425	
+resume	426	
+resume	427	
+resume	428	
+resume	429	
+resume	430	
+resume	431	
+resume	432	
+resume	433	
+resume	434	
+resume	435	
+resume	436	
+resume	437	
+resume	438	
+resume	439	
+resume	440	
+resume	441	
+resume	442	
+resume	443	
+resume	444	
+resume	445	
+resume	446	
+resume	447	
+resume	448	
+resume	449	
+resume	450	
+resume	451	
+resume	452	
+resume	453	
+resume	454	
+resume	455	
+resume	456	
+resume	457	
+resume	458	
+resume	459	
+resume	460	
+resume	461	
+resume	462	
+resume	463	
+resume	464	
+resume	465	
+resume	466	
+resume	467	
+resume	468	
+resume	469	
+resume	470	
+resume	471	
+resume	472	
+resume	473	
+resume	474	
+resume	475	
+resume	476	
+resume	477	
+resume	478	
+resume	479	
+resume	480	
+resume	481	
+resume	482	
+resume	483	
+resume	484	
+resume	485	
+resume	486	
+resume	487	
+resume	488	
+resume	489	
+resume	490	
+resume	491	
+resume	492	
+resume	493	
+resume	494	
+resume	495	
+resume	496	
+resume	497	
+resume	498	
+resume	499	
+resume	500	
+resume	501	
+resume	502	
+resume	503	
+resume	504	
+resume	505	
+resume	506	
+resume	507	
+resume	508	
+resume	509	
+resume	510	
+resume	511

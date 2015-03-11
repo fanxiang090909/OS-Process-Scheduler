@@ -1,0 +1,6 @@
+create	1	8
+create	16	10
+create	32	-1
+resume	0	
+resume	1	
+resume	2	
